@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaesin22)](https://solved.ac/jaesin22)
 
+<a href="https://opgc.me/#/users/JAESIN22" target="_blank"><img src="https://api.opgc.me/githubs/users/JAESIN22/tag/?theme=basic" /></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaesin22&layout=compact&theme=dark)
